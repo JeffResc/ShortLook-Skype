@@ -1,0 +1,9 @@
+Package: com.jeffresc.shortlook.plugin.contact-photo.skype
+Name: Skype Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Show Skype users' profile pictures in ShortLook when you receive a Skype notification!
+Maintainer: JeffResc
+Author: Jeff Rescignano
+Section: Tweaks (ShortLook)
