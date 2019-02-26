@@ -1,4 +1,5 @@
 # Skype Contact Photo Provider for ShortLook
+[![Build Status](https://travis-ci.org/JeffResc/ShortLook-Skype.svg?branch=master)](https://travis-ci.org/JeffResc/ShortLook-Skype)
 
 ![YouTube Video Thumbnails for ShortLook](https://repo.dynastic.co/data/static/version/152314376634761216/152314519127851008)
 
