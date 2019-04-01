@@ -8,3 +8,7 @@ Show Skype users' profile pictures in ShortLook when you receive a Skype notific
 (This is not ShortLook itself, but a plugin for it)
 
 You can download this Contact Photo Provider for ShortLook from the [Dynastic Repo](https://repo.dynastic.co/package/shortlook-skype).
+
+# Changelog
+## v1.0
+Initial Release
