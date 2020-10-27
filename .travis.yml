@@ -27,7 +27,4 @@ deploy:
   on:
     branches:
       only:
-        - master
-branches:
-  except:
-  - /^untagged/
+        - release
